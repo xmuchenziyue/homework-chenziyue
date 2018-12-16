@@ -1,2 +1,2 @@
-## 请下载 信号试题-第6题（假设1）-陈孜越.ipynb
-##        信号试题-第6题（假设2）-陈孜越.ipynb
+## 请下载 ARPSYUptrendStrategy.ipynb
+##        ARPSYMaStrategy.ipynb
